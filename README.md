@@ -1,3 +1,5 @@
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/Mingleton/blob/main/img/Mingleton.jpg">
+
 # 💌 Love Letter Generator
 
 ## Basic Details
