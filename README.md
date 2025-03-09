@@ -49,7 +49,7 @@ The **Love Letter Generator** is an AI-powered web app that generates personaliz
 ```bash
 cd backend
 pip install -r requirements.txt
-python embedding_generator.py
+python embedding_generator.py #run only once
 cd ..
 ```
 
