@@ -4,4 +4,4 @@ numpy
 faiss-cpu
 sentence-transformers
 ollama
-pickle5  # Only needed if using Python < 3.8, otherwise `pickle` is built-in
+
