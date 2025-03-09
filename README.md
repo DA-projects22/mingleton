@@ -43,7 +43,7 @@ The **Love Letter Generator** is an AI-powered web app that generates personaliz
 ---
 
 ## 🔧 Installation & Setup
-intsall python & pip ‼️‼️(Important)
+INSTALL PYTHON AND PIP‼️‼️(Important)
 
 ### Backend
 
