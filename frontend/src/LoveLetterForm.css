@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffe6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+}
+
+/* Form Styling */
+.form-container {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.title {
+  color: #d6336c;
+  font-size: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+  text-align: left;
+  display: block;
+  margin-top: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  background: #fff;
+  box-sizing: border-box;
+  color: #333;
+}
+
+input::placeholder, textarea::placeholder {
+  color: #777;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #d6336c;
+  box-shadow: 0 0 5px rgba(214, 51, 108, 0.2);
+  color: #222;
+}
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+/* Button Styling */
+.generate-button {
+  background-color: #d6336c;
+  color: white;
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.3s ease, transform 0.2s ease;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.generate-button:hover {
+  background-color: #b02050;
+  transform: scale(1.05);
+}
+
+/* Separate Love Letter Container */
+.letter-container {
+  margin-top: 20px;
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  text-align: left;
+}
+
+.letter-container h2 {
+  text-align: center;
+  color: #d6336c;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.letter-content {
+  white-space: pre-wrap;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.reset-button {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.reset-button:hover {
+  background-color: #cc0000;
+}
