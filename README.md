@@ -64,15 +64,18 @@ npm start
 ---
 
 ## 📷 Screenshots
-
-<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/6d9ce7504eea4332be533224ebcaadbf8149080c/landingpage.png">
 *The homepage where users can input their details.*
+<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/6d9ce7504eea4332be533224ebcaadbf8149080c/landingpage.png">
 
-<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/95a393e877e53d511eedde5467f73d78c7299816/letter.png">
+
+
 *A beautifully generated love letter based on user input.*
+<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/95a393e877e53d511eedde5467f73d78c7299816/letter.png">
 
-![Error Handling]\(Add screenshot 3 here)
+
 *Example of error handling for missing fields.*
+<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/669fe3ef4de44bfe1614c7933aed1649e9dbe451/error.png">
+
 
 ---
 
