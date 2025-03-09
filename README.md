@@ -65,7 +65,7 @@ npm start
 
 ## 📷 Screenshots
 
-![Landing Page](image.png)
+<img width="1280" alt="readme-banner" src="https://github.com/DA-projects22/mingleton/blob/6d9ce7504eea4332be533224ebcaadbf8149080c/landingpage.png">
 *The homepage where users can input their details.*
 
 ![Generated Love Letter]\(Add screenshot 2 here)
