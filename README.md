@@ -81,7 +81,7 @@ npm start
 
 ## 🎥 Project Demo
 
-[Demo Video Link Here]
+https://github.com/DA-projects22/mingleton/blob/84e4be3aedf7aee1108774e9ac57d39a6ff2e381/tutorial%20video.mkv
 *This video demonstrates the full workflow of generating a love letter.*
 
 ---
